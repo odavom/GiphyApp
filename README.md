@@ -8,4 +8,4 @@ A web based application, using the Giphy API, that allows users to search for GI
 #### Problems and Solutions
 
 
-##### Technical approach
+#### Technical approach
