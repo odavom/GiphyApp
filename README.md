@@ -9,11 +9,12 @@ A web based application, using the Giphy API, that allows users to search for GI
 *PROBLEM: 
 1. animating the GIFs - it was a struggle conceptualizing the HTML as an object, the DOM, that can be manipulated without writing elements and attributes in the HTML.
 2. using Ajax and retrieving information from JSON.
-3. 
+3. staying focused and breaking down problems into smaller manageable problems.
 
-*SOLUTION: wathcing videos, familiarizing myself with jQuery, using dot notation.
+*SOLUTION: watching videos, familiarizing myself with jQuery, using dot notation.
 
 #### Technical approach
 * trial and error 
 * revisting the activities covered in class
 * using Mozilla MDN
+* managing the feeling of getting overwhelmed 
